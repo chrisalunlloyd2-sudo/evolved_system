@@ -44,6 +44,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] evolved_system 2026-07-22 17:13 ($hash)
@@ -56,7 +57,4 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] evolved_system 2026-06-26 15:58 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-06-20 02:57 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-06-19 20:57 ($hash)
-
-## 2026-05
-- **[Changed]** Standardized evolved_system to v10.2 System Bible spec ($hash)
 
