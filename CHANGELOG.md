@@ -52,7 +52,5 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
-
-## 2026-07
-- **[Changed]** [Moe autonomous] evolved_system 2026-07-22 17:13 ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
