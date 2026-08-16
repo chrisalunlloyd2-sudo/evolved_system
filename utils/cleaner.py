@@ -2,6 +2,10 @@ import re
 
 def clean_log(log_content):
     # Regular expression for removing newline characters and the character ' '
+    """Clean log.
+
+    Args: log_content.
+    """
     cleaned_content = re.sub(r'\n', '', log_content)
 
     return cleaned_content
