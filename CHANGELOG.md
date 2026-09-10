@@ -3,6 +3,8 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Docs]** docs: document 1 public API in utils\cleaner.py (autonomous, logic-verified) ($hash)
+- **[Changed]** [Moe autonomous] evolved_system 2026-08-15 03:25 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-08-15 02:52 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-08-15 02:10 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-08-15 01:27 ($hash)
@@ -51,6 +53,4 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] evolved_system 2026-08-13 04:58 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-08-13 03:59 ($hash)
 - **[Changed]** [Moe autonomous] evolved_system 2026-08-13 03:25 ($hash)
-- **[Changed]** [Moe autonomous] evolved_system 2026-08-13 02:32 ($hash)
-- **[Changed]** [Moe autonomous] evolved_system 2026-08-13 01:42 ($hash)
 
